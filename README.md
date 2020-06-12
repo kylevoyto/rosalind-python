@@ -10,7 +10,7 @@ The goal is to solve all of the ROSALIND problems. We need to write the code to 
 
 The person who writes unit tests for a problem cannot be the same as the person who codes the solution to the problem. Further, the unit tests must be written first! We are practicing [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development).
 
-Check the issues for the current work that needs done! Pick an issue, code the solution on your account, and open a pull request to merge the solution back into this repo. For first timers, these tasks are not easy, but they are really valuable to figure out. GitHub/other projects probably has some good documentation on the steps necessary to do these tasks (TODO: find good docs on this).
+Check the issues for the current work that needs done! Pick an issue, code the solution on your account, and open a pull request to merge the solution back into this repo. For first timers, these tasks are not easy, but they are really valuable to figure out. [Here is a GitGub guide on forking and opening a pull request.](https://guides.github.com/activities/forking/)
 
 ## Organization
 
