@@ -14,7 +14,7 @@ def test_counting_dna_nucleotides_single_G():
 
 
 def test_counting_dna_nucleotides_single_T():
-    assert counting_dna_nucleotides('T') == '0 0 0 T'
+    assert counting_dna_nucleotides('T') == '0 0 0 1'
 
 
 def test_counting_dna_nucleotides_21():
@@ -44,4 +44,4 @@ def test_counting_dna_nucleotides_951():
         'CCCACGGAACGGGTCTCGAGATGCCACTCCTGTCGGACCATTCAGAGAAGTCCGAGAGTGTTTTGGCTG'
         'CCGCTGCTCATACCTGCTTTCCGTTGTCCGCCCGTAAAGCCTTTGGAAGACACCAGGAATGAGACACCG'
         'TAGAGTCCAACCTGATTCTGTCCATGTATATTAGGGGGCCGGGCGACCAGACT'
-    ) == '252 239 218 242'
+    ) == '252 238 218 242'
